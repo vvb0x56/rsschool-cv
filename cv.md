@@ -31,5 +31,4 @@ I already have some self educated programming expirience, and now want to do it 
  - Self-education  
 
 ## English 
-Good read/write and low spoken english level.   
-I estimate myself as Upper Intermediate.
+Good read/write and low spoken english level. I estimate myself as Upper Intermediate.
