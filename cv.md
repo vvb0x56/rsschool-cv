@@ -5,6 +5,7 @@
  - Email address: [vvb0x56@gmail.com](vvb0x56@gmail.com)
  - Telegram: [@vvb0x56](https://t.me/vvb0x56)
  - GitHub: [vvb0x56](https://github.com/vvb0x56)
+ - Skype: boboba86  
 
 ## Summary 
 I already have some self educated programming expirience, and now want to do it professionaly. Unfortunately, my knownledge in a Web stack is weak, but therearefore i'm here. My goal to be a good developer and teach others.
