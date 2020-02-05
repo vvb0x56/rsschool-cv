@@ -1,11 +1,11 @@
 # Vladimir Burlakov
 
 ## Contacts
- - Telephone number: +7 (961) 396 60 51
- - Email address: [vvb0x56@gmail.com](vvb0x56@gmail.com)
- - Telegram: [@vvb0x56](https://t.me/vvb0x56)
- - GitHub: [vvb0x56](https://github.com/vvb0x56)
- - Skype: boboba86  
+ - Telephone number: +7 (966) 666 66 66
+ - Email address: [vvb0x56_gmail_com](vvb0x56_gmail_com)
+ - Telegram: [@vvb0x56](https://t_me_vvb0x56)
+ - GitHub: [vvb0x56](https_github.com_vvb0x56)
+ - Skype: skype-account-example 
 
 ## Summary 
 I already have some self educated programming expirience, and now want to do it professionaly. Unfortunately, my knownledge in a Web stack is weak, but therearefore i'm here. My goal to be a good developer and teach others.
