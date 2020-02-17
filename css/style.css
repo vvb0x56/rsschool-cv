@@ -1,0 +1,94 @@
+body {
+    font-family: "Work Sans", "Arial", sans-serif;
+
+    background-color: #f1f1f1;
+}
+
+main {
+    margin: 60px auto 60px auto;
+    padding-bottom: 50px;
+    width: 100%;
+    max-width: 1000px;
+
+    background-color: #ac2f4c;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+h1,
+h2,
+p {
+    margin: 0;
+    padding: 10px;
+    padding-left: 40px;
+}
+
+ul {
+    padding-left: 80px;
+}
+
+#header {
+    display: flex;
+    height: 60px;
+
+    background-color: #ac2f4c;
+}
+
+#cv-name {
+    align-items: stretch;
+    margin: 0;
+    padding: 10px;
+    padding-left: 40px;
+    width: 70%;
+    background-color: white;
+}
+
+#cv-position-block {
+    display: flex;
+    height: 50px;
+}
+
+#cv-position {
+    background-color: #f3f7fb;
+    margin: 0;
+    padding: 10px;
+    padding-left: 40px;
+
+    align-items: stretch;
+
+    width: 100%;
+}
+
+#cv-content-container {
+    padding-bottom: 40px;
+    overflow: hidden;
+}
+
+#cv-content-container div {
+    padding-bottom: 99999px;
+    margin-bottom: -99999px;
+    padding-top: 40px;
+
+    vertical-align: top;
+}
+
+#cv-content {
+    display: inline-block;
+    width: 75%;
+
+    background-color: white;
+}
+
+#cv-photo-block {
+    display: inline-block;
+    width: calc(100% - 75%);
+
+    background-color: #f3f7fb;
+}
+
+#cv-photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
